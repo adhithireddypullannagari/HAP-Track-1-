@@ -1,0 +1,51 @@
+candidate_id,rank,score,reasoning
+CAND_0000031,1,0.5477,Recommendation Systems Engineer with 6.0 yrs experience; matched key skills; strong behavioral signals
+CAND_0000001,2,0.4104,Backend Engineer with 6.9 yrs experience; matched key skills; strong behavioral signals
+CAND_0000046,3,0.3463,Mechanical Engineer with 7.8 yrs experience; matched key skills; strong behavioral signals
+CAND_0000021,4,0.3162,Project Manager with 14.5 yrs experience; matched key skills; strong behavioral signals
+CAND_0000041,5,0.314,Operations Manager with 13.7 yrs experience; matched key skills; strong behavioral signals
+CAND_0000036,6,0.299,Project Manager with 11.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000024,7,0.2974,HR Manager with 7.5 yrs experience; matched key skills; strong behavioral signals
+CAND_0000033,8,0.2934,Graphic Designer with 8.6 yrs experience; matched key skills; strong behavioral signals
+CAND_0000030,9,0.2873,Marketing Manager with 10.0 yrs experience; matched key skills; strong behavioral signals
+CAND_0000010,10,0.2713,Data Engineer with 4.6 yrs experience; matched key skills; strong behavioral signals
+CAND_0000048,11,0.27,Mobile Developer with 9.7 yrs experience; matched key skills; strong behavioral signals
+CAND_0000023,12,0.2692,Software Engineer with 3.7 yrs experience; matched key skills; strong behavioral signals
+CAND_0000025,13,0.2499,Frontend Engineer with 7.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000014,14,0.249,Frontend Engineer with 8.4 yrs experience; matched key skills; strong behavioral signals
+CAND_0000011,15,0.2401,QA Engineer with 2.0 yrs experience; matched key skills; strong behavioral signals
+CAND_0000015,16,0.2377,Software Engineer with 5.4 yrs experience; matched key skills; strong behavioral signals
+CAND_0000016,17,0.2351,Accountant with 5.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000005,18,0.2192,Accountant with 11.0 yrs experience; matched key skills; strong behavioral signals
+CAND_0000047,19,0.2183,Project Manager with 2.4 yrs experience; matched key skills; strong behavioral signals
+CAND_0000007,20,0.2058,Civil Engineer with 5.5 yrs experience; matched key skills; strong behavioral signals
+CAND_0000042,21,0.1998,HR Manager with 5.0 yrs experience; matched key skills; strong behavioral signals
+CAND_0000038,22,0.1949,Java Developer with 6.7 yrs experience; matched key skills; strong behavioral signals
+CAND_0000050,23,0.1829,Business Analyst with 13.5 yrs experience; matched key skills; strong behavioral signals
+CAND_0000020,24,0.1791,Mechanical Engineer with 6.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000026,25,0.1691,Graphic Designer with 6.8 yrs experience; matched key skills; strong behavioral signals
+CAND_0000049,26,0.1688,Mechanical Engineer with 11.8 yrs experience; matched key skills; strong behavioral signals
+CAND_0000043,27,0.1671,Cloud Engineer with 8.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000028,28,0.1647,Operations Manager with 1.1 yrs experience; matched key skills; strong behavioral signals
+CAND_0000035,29,0.1614,Full Stack Developer with 4.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000027,30,0.157,DevOps Engineer with 3.9 yrs experience; matched key skills; strong behavioral signals
+CAND_0000037,31,0.1496,Business Analyst with 14.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000009,32,0.1365,Mechanical Engineer with 11.0 yrs experience; matched key skills; strong behavioral signals
+CAND_0000002,33,0.1346,Operations Manager with 12.5 yrs experience; matched key skills; strong behavioral signals
+CAND_0000022,34,0.118,Mechanical Engineer with 1.1 yrs experience; matched key skills; strong behavioral signals
+CAND_0000045,35,0.1053,Project Manager with 12.2 yrs experience; matched key skills; strong behavioral signals
+CAND_0000008,36,0.0996,Operations Manager with 3.6 yrs experience; matched key skills; strong behavioral signals
+CAND_0000013,37,0.0918,Civil Engineer with 1.1 yrs experience; matched key skills; strong behavioral signals
+CAND_0000029,38,0.085,Business Analyst with 7.2 yrs experience; matched key skills; strong behavioral signals
+CAND_0000032,39,0.0773,.NET Developer with 8.1 yrs experience; matched key skills; strong behavioral signals
+CAND_0000034,40,0.0552,Business Analyst with 14.5 yrs experience; matched key skills; strong behavioral signals
+CAND_0000006,41,0.0523,Business Analyst with 6.0 yrs experience; matched key skills; strong behavioral signals
+CAND_0000017,42,0.0493,Accountant with 12.3 yrs experience; matched key skills; strong behavioral signals
+CAND_0000012,43,0.049,Operations Manager with 1.1 yrs experience; matched key skills; strong behavioral signals
+CAND_0000019,44,0.0092,Project Manager with 6.5 yrs experience; matched key skills; strong behavioral signals
+CAND_0000004,45,-0.0143,Marketing Manager with 3.8 yrs experience; matched key skills; strong behavioral signals
+CAND_0000044,46,-0.0216,Frontend Engineer with 5.7 yrs experience; matched key skills; strong behavioral signals
+CAND_0000040,47,-0.0357,Customer Support with 1.6 yrs experience; matched key skills; strong behavioral signals
+CAND_0000018,48,-0.0449,Frontend Engineer with 6.6 yrs experience; matched key skills; strong behavioral signals
+CAND_0000039,49,-0.0535,Marketing Manager with 3.9 yrs experience; matched key skills; strong behavioral signals
+CAND_0000003,50,-0.1052,Customer Support with 1.1 yrs experience; matched key skills; strong behavioral signals
